@@ -1,3 +1,4 @@
+<?php
 /*
 Theme Name: SimpleStrap Blog
 Author: Tomasz Leszczynski <tomasz@leszczynski.space>
@@ -7,3 +8,7 @@ Version: 1.0
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 */
+get_header();
+
+get_footer();
+?>
